@@ -13,20 +13,11 @@ The dataset used in this project contains historical sales data for 45 Walmart s
 * Forecasting: The selected model is used to forecast sales for future time periods.
 Files
 * Jupyter Notebook: Contains the Python code for data preprocessing, exploratory data analysis, model implementation, evaluation, and forecasting.
-Readme File (this file): Provides an overview of the project, data, methodology, and files.
-Dependencies
-Python 3.x
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Statsmodels
-Prophet
-Usage
-Clone the repository.
-Ensure all dependencies are installed.
-Open the Jupyter notebook and execute each cell sequentially.
-Follow the instructions within the notebook to preprocess the data, explore the dataset, implement models, evaluate performance, and generate forecasts.
-Results
-The forecasting models provide insights into future sales trends, allowing stakeholders to make informed decisions regarding inventory management, resource allocation, and overall business strategy.
+# Dependencies
+* Python 3.x
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Statsmodels
